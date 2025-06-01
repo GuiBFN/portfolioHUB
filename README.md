@@ -35,7 +35,7 @@ Implantar o **PortfolioHUB**, uma plataforma digital para centralizar e apresent
 ##  Apresentação Final
 
 A apresentação em vídeo com a explicação do projeto está disponível em:  
-🔗 [Link para o vídeo no YouTube](https://www.youtube.com/seuvideoaqui)
+🔗 [Link para o vídeo no YouTube](https://youtu.be/x3QuB2iEsCc)
 
 ##  Contato
 
