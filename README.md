@@ -41,4 +41,4 @@ A apresentação em vídeo com a explicação do projeto está disponível em:
 
 Desenvolvido por Guilherme Borges Furtado Neves – guilherme.neves@sempreceub.com
 
-contatos : https://www.linkedin.com/in/guilherme-borges-984200358?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0TfkNTrQK6QmMxEVOxL9w%3D%3D
+linkedin https://www.linkedin.com/in/guilherme-borges-984200358?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0TfkNTrQK6QmMxEVOxL9w%3D%3D
